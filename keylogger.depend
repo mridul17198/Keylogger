@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1535294716 source:c:\users\mridul\desktop\hacking tutorial\keylogger\main.cpp
+	<iostream>
+	<windows.h>
+	"Helper.h"
+	"Keyconstants.h"
+	"Base64.h"
+	"IO.h"
+	"Timer.h"
+	"SendMail.h"
+	"KeybHook.h"
+
+1534627686 c:\users\mridul\desktop\hacking tutorial\keylogger\helper.h
+	<ctime>
+	<string>
+	<sstream>
+	<fstream>
+
+1534693252 c:\users\mridul\desktop\hacking tutorial\keylogger\keyconstants.h
+	<map>
+	<string>
+
+1534627659 c:\users\mridul\desktop\hacking tutorial\keylogger\base64.h
+	<vector>
+	<string>
+
+1534693071 c:\users\mridul\desktop\hacking tutorial\keylogger\io.h
+	<string>
+	<cstdlib>
+	<fstream>
+	"windows.h"
+	"Helper.h"
+	"Base64.h"
+
+1535138918 c:\users\mridul\desktop\hacking tutorial\keylogger\time.h
+	<thread>
+	<chrono>
+
+1535263042 c:\users\mridul\desktop\hacking tutorial\keylogger\timer.h
+	<thread>
+	<chrono>
+
+1535460437 c:\users\mridul\desktop\hacking tutorial\keylogger\sendmail.h
+	<fstream>
+	<vector>
+	"windows.h"
+	"IO.h"
+	"Timer.h"
+	"Helper.h"
+
+1535294408 c:\users\mridul\desktop\hacking tutorial\keylogger\keybhook.h
+	<iostream>
+	<fstream>
+	"windows.h"
+	"Keyconstants.h"
+	"Timer.h"
+	"SendMail.h"
+
